@@ -2,3 +2,5 @@ Options +Includes
 
 AddType text/html .shtml
 AddOutputFilter INCLUDES .shtml
+
+PassEnv MY_POD_NAME
