@@ -13,6 +13,7 @@
 </head>
 
 <body>
+  <h2>Hello from pod : <!--#echo var="MY_POD_NAME" -->
   <script src="js/scripts.js"></script>
 </body>
 </html>
